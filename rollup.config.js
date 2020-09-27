@@ -30,7 +30,7 @@ export default [{
     format: 'es',
     file: 'dist/index.js'
   }],
-  external: ['rxjs'],
+  external: ['rxjs', 'rxjs/operators'],
   plugins
 }, {
   input: 'src/html.ts',
