@@ -15,8 +15,10 @@ To use include 'babel-plugin-jsx-dom-expressions' in your babelrc, webpack babel
 > npm install rxjs-jsx babel-plugin-jsx-dom-expressions
 ```
 
-## API
+## Example:
+[Counter](https://codesandbox.io/s/rxjs-jsx-counter-knm16)
 
+## API
 
 For example:
 
