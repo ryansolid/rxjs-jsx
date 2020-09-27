@@ -7,12 +7,12 @@ It accomplishes this with using [Babel Plugin JSX DOM Expressions](https://githu
 To use include 'babel-plugin-jsx-dom-expressions' in your babelrc, webpack babel loader, or rollup babel plugin
 
 ```js
-"plugins": [["jsx-dom-expressions", {moduleName: 'rxjsx'}]]
+"plugins": [["jsx-dom-expressions", {moduleName: 'rxjs-jsx'}]]
 ```
 
 # Installation
 ```sh
-> npm install rxjsx babel-plugin-jsx-dom-expressions
+> npm install rxjs-jsx babel-plugin-jsx-dom-expressions
 ```
 
 ## API
