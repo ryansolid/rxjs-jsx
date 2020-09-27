@@ -1,5 +1,5 @@
 {
-  "name": "rx-jsx",
+  "name": "rxjs-jsx",
   "description": "An DOM JSX renderer for RxJS",
   "version": "0.0.1",
   "author": "Ryan Carniato",

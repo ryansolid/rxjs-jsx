@@ -1,4 +1,4 @@
-# RxJSX
+# RxJS JSX
 
 This library is an experiment to use RxJS as a fine grained DOM renderer with [RxJS Autorun](https://github.com/kosich/rxjs-autorun).
 
